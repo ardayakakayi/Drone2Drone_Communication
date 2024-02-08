@@ -1,0 +1,4 @@
+repository "Drones_Project@arda_yakakayi@cloud"
+  path "/"
+    br "/main"
+    co "/main"
